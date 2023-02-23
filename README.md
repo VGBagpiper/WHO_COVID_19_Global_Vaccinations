@@ -13,8 +13,8 @@ This is a static dataset, downloaded from The World Health Organization https://
 
 ### Data Fields:
 
-**FIELD source-data-type
-    source-description:**
+- **FIELD source-data-type
+    - **source-description**
 
 - COUNTRY String
     - Country, territory, area
