@@ -9,8 +9,7 @@ The purpose of this Jupyter Notebook is to show my thinking when analyzing new d
 I looked for a simple, but interesting .csv dataset on the WHO data portal. This is historical vaccination data by Country and World Health Organization Region showing reported vaccinations by country to the last reported date.
 
 ### Source of Data:
-This is a static dataset, downloaded from [The World Health Organization] (https://covid19.who.int/data) on Friday, February 17, 2023
-The url to the evergreen data set is: (https://covid19.who.int/who-data/vaccination-data.csv)
+This is a static dataset, downloaded from The World Health Organization https://covid19.who.int/data on Friday, February 17, 2023. The url to the evergreen data set is: https://covid19.who.int/who-data/vaccination-data.csv
 
 ### Data Fields:
 
