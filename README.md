@@ -1,25 +1,25 @@
 # WHO_COVID_19_Global_Vaccinations
 
-Personal Data Analysis Portfolio Project
+## Personal Data Analysis Portfolio Project
 
-Purpose:
+### Purpose:
 The purpose of this Jupyter Notebook is to show my thinking when analyzing new data. I am more familiar with data analysis in R using RStudio, but I am using Python and Pandas in PyCharm for this project for the practice, and to add to my portfolio.
 
-Why this data?
+### Why this data?
 I looked for a simple, but interesting .csv dataset on the WHO data portal. This is historical vaccination data by Country and World Health Organization Region showing reported vaccinations by country to the last reported date.
 
-Source of Data:
-This is a static dataset, downloaded from https://covid19.who.int/data on Friday, February 17, 2023
-The url to the evergreen data set is: https://covid19.who.int/who-data/vaccination-data.csv
+### Source of Data:
+This is a static dataset, downloaded from [The World Health Organization] (https://covid19.who.int/data) on Friday, February 17, 2023
+The url to the evergreen data set is: (https://covid19.who.int/who-data/vaccination-data.csv)
 
 
-FIELD source-data-type
+- FIELD source-data-type
     source-description:
 
-COUNTRY String
-    Country, territory, area
-ISO3 String
-    ISO Alpha-3 country code
+- COUNTRY String
+    - Country, territory, area
+- ISO3 String
+    - ISO Alpha-3 country code
 WHO_REGION String
     WHO regional offices: WHO Member States are grouped into six WHO regions:
         Regional Office for Africa (AFRO),
